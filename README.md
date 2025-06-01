@@ -1,3 +1,7 @@
+<h1>Gym Member Management System</h1>
+
+<p>This System is used to store and manage information of gym members with various diffrent plans and is also capable of storing data into text files which can be read later on</p>
+
 <img src="./assets/home_page.png" width="1100">
 
 _Home Page_
